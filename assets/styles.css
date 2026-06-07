@@ -157,7 +157,7 @@ html{
         flex-direction: row;
     }
     .testimonial-user{
-        width: 35rem;
+        width: 45rem;
     
     }
     .testimonials-users .testimonial-user:nth-child(2){
